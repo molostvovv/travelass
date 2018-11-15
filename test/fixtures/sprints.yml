@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  springtable_type: 2018-11-15
+  sprintable_id: 1
+
+two:
+  user_id: 1
+  springtable_type: 2018-11-15
+  sprintable_id: 1
